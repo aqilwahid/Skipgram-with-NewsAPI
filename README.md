@@ -1,1 +1,1 @@
-# -Skipgram-with-NewsAPI
+# Skipgram-with-NewsAPI
